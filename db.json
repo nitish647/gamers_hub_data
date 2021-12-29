@@ -1,0 +1,899 @@
+[
+  {
+    "main": [
+      {
+        "img_file": "https://img.gamedistribution.com/aa83b59148f3459687d6c6382cd30e9d-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "WATER FLOW",
+        "url": "https://html5.gamedistribution.com/aa83b59148f3459687d6c6382cd30e9d/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/2757b8264b604934a66f8b24c6e09fee-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "racing",
+        "name": "GRAND PRIX HERO",
+        "url": "https://html5.gamedistribution.com/2757b8264b604934a66f8b24c6e09fee/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/1a5f3081c3954711b83c0a3404aa71d6-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "POPCORN BOX",
+        "url": "https://html5.gamedistribution.com/1a5f3081c3954711b83c0a3404aa71d6/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/28ea335163a24cd4a8dbebe5f9cd9113-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "shooting",
+        "name": "TANK WARS: PRO",
+        "url": "https://html5.gamedistribution.com/28ea335163a24cd4a8dbebe5f9cd9113/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/268ffdb2c4a748f18d0c39c9d183b9ed-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "HERO KNIGHT ACTION RPG",
+        "url": "https://html5.gamedistribution.com/268ffdb2c4a748f18d0c39c9d183b9ed/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/54ca781032914740a819c2242b770878-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "SNAKE CHALLENGE",
+        "url": "https://html5.gamedistribution.com/54ca781032914740a819c2242b770878/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/8b1f150b3e9141bab6dff4d63ecbccef-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "JUNGLE DASH MANIA",
+        "url": "https://html5.gamedistribution.com/8b1f150b3e9141bab6dff4d63ecbccef/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/722176c4785042368e5b4f734cc14b9e-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "action",
+        "name": "STICKMAN SWING",
+        "url": "https://html5.gamedistribution.com/722176c4785042368e5b4f734cc14b9e/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/7c55e325cfa441e08416e610253e02c3-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "action",
+        "name": "HANGER 2 HTML5 CENSORED",
+        "url": "https://html5.gamedistribution.com/5b911de55ff848dca5c413624e5db653/"
+      },
+      {
+        "img_file": "https://games.assets.gamepix.com/40071/thumbnail/small.png",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "Cut the Rope",
+        "url": "https://play.gamepix.com/cut-the-rope/embed?sid=2WVMD"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/32ee8e3da4ec4d579f7ae385adc742d8-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "BRICK BREAKER GALAXY DEFENSE",
+        "url": "https://html5.gamedistribution.com/32ee8e3da4ec4d579f7ae385adc742d8/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/01916e94606344f5b0620fd8e76d2127-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "PIANO TILES 3",
+        "url": "https://html5.gamedistribution.com/01916e94606344f5b0620fd8e76d2127/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/4d2a9eb618474d3db40c6935f579c4a7-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "shooting",
+        "name": "MAFIA WARS",
+        "url": "https://html5.gamedistribution.com/4d2a9eb618474d3db40c6935f579c4a7/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/80489c0e24a24d00b84852d27543b09f-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "CAR EATS CAR 2",
+        "url": "https://html5.gamedistribution.com/80489c0e24a24d00b84852d27543b09f/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/7e0332c53c1d4044a60bab150219dda4-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "strategy",
+        "name": "KILLER ASSASSIN",
+        "url": "https://html5.gamedistribution.com/7e0332c53c1d4044a60bab150219dda4/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/falling-ballz.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Falling Ballz",
+        "url": "https://m.shtoss.com/game/falling-ballz/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/super-box.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Super Box",
+        "url": "https://m.shtoss.com/game/super-box/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/color-bump-online.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Color Bump Online",
+        "url": "https://m.shtoss.com/game/color-bump-online/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/room-escape-adventure.jpg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "Room Escape Adventure",
+        "url": "https://m.shtoss.com/game/room-escape-adventure/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/a0b924940785449cb4a075e2d5f025a3-512x384.jpeg",
+        "orientation": "vertical",
+        "category": "racing",
+        "name": "RUN RACE 3D",
+        "url": "https://html5.gamedistribution.com/a0b924940785449cb4a075e2d5f025a3/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/cbb50b90ed904252849de31f7647a0e7-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "Puzzle",
+        "name": "SUDOKU CLASSIC",
+        "url": "https://html5.gamedistribution.com/cbb50b90ed904252849de31f7647a0e7/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/efec93704a6d4f9e83fd78536231192c-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "2048 DROP",
+        "url": "https://html5.gamedistribution.com/efec93704a6d4f9e83fd78536231192c/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/5c0ad273bb7f4945a53f69d7d9adfc70-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "Shooting",
+        "name": "STUPID ZOMBIES 2",
+        "url": "https://html5.gamedistribution.com/5c0ad273bb7f4945a53f69d7d9adfc70/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/b00ba96e1d1c4a739454fd9c1e8f7393-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "DRAW CLIMBER",
+        "url": "https://html5.gamedistribution.com/b00ba96e1d1c4a739454fd9c1e8f7393/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/project-archer.jpg",
+        "orientation": "horizontal",
+        "category": "Shooting",
+        "name": "Project Archer",
+        "url": "https://m.shtoss.com/game/project-archer/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/happy-glass.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Happy Glass",
+        "url": "https://m.shtoss.com/game/happy-glass/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/elevator-ball.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Elevator Ball",
+        "url": "https://m.shtoss.com/game/elevator-ball/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/ruin.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Ruin",
+        "url": "https://m.shtoss.com/game/ruin/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/cube-jump.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Cube Jump",
+        "url": "https://m.shtoss.com/game/cube-jump/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/rescuers.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Rescuers",
+        "url": "https://m.shtoss.com/game/rescuers/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/ninja-action.jpg",
+        "orientation": "vertical",
+        "category": "action",
+        "name": "Ninja Action",
+        "url": "https://m.shtoss.com/game/ninja-action/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/dunk-slam.jpg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "Dunk Slam",
+        "url": "https://m.shtoss.com/game/dunk-slam/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/flappy-shooter.jpg",
+        "orientation": "vertical",
+        "category": "shooting",
+        "name": "Flappy Shooter",
+        "url": "https://m.shtoss.com/game/flappy-shooter/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/furious-road.jpg",
+        "orientation": "vertical",
+        "category": "shooting",
+        "name": "Furious Road",
+        "url": "https://m.shtoss.com/game/furious-road/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/pick-me-up.jpg",
+        "orientation": "vertical",
+        "category": "car",
+        "name": "Pick Me Up",
+        "url": "https://m.shtoss.com/game/pick-me-up/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/monster-track.jpg",
+        "orientation": "horizontal",
+        "category": "car",
+        "name": "Monster Track",
+        "url": "https://m.shtoss.com/game/monster-track/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/rrings.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "RRings",
+        "url": "https://m.shtoss.com/game/rrings/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/linebright.jpg",
+        "orientation": "horizontal",
+        "category": "puzzle",
+        "name": "Linebright",
+        "url": "https://m.shtoss.com/game/linebright/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/4096.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "4096",
+        "url": "https://m.shtoss.com/game/4096/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/kitsune-zenko-adventure.jpg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "Kitsune Zenko Adventure",
+        "url": "https://m.shtoss.com/game/kitsune-zenko-adventure/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/color-tower.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Color Tower",
+        "url": "https://m.shtoss.com/game/color-tower/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/lozy.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Lozy",
+        "url": "https://m.shtoss.com/game/lozy/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/target.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Target",
+        "url": "https://m.shtoss.com/game/target/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/pipe-beer.jpg",
+        "orientation": "horizontal",
+        "category": "puzzle",
+        "name": "Pipe Beer",
+        "url": "https://m.shtoss.com/game/pipe-beer/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/mini-skate.jpg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "Mini Skate",
+        "url": "https://m.shtoss.com/game/mini-skate/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/trio-online.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Mini Skate",
+        "url": "https://m.shtoss.com/game/trio-online/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/color-flow.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Color Flow",
+        "url": "https://m.shtoss.com/game/color-flow/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/connect-4.jpg",
+        "orientation": "horizontal",
+        "category": "strategy",
+        "name": "Connect 4",
+        "url": "https://m.shtoss.com/game/connect-4/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/fizz-puzzle.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "FIZZ Puzzle",
+        "url": "https://m.shtoss.com/game/fizz-puzzle/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/shoot5.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Shoot5",
+        "url": "https://m.shtoss.com/game/shoot5/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/dash-rocket.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Dash Rocket",
+        "url": "https://m.shtoss.com/game/dash-rocket/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/neon-pong.jpg",
+        "orientation": "vertical",
+        "category": "Board",
+        "name": "Neon Pong",
+        "url": "https://m.shtoss.com/game/neon-pong/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/battleship-war.jpg",
+        "orientation": "horizontal",
+        "category": "strategy",
+        "name": "Battleship War",
+        "url": "https://m.shtoss.com/game/battleship-war/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/flight-sim.jpg",
+        "orientation": "horizontal",
+        "category": "strategy",
+        "name": "Flight Sim",
+        "url": "https://m.shtoss.com/game/flight-sim/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/sand-worm.jpg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "Sand Worm",
+        "url": "https://m.shtoss.com/game/sand-worm/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/sliding-bricks.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Sliding Bricks",
+        "url": "https://m.shtoss.com/game/sliding-bricks/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/tiny-race.jpg",
+        "orientation": "vertical",
+        "category": "racing",
+        "name": "Tiny Race",
+        "url": "https://m.shtoss.com/game/tiny-race/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/sky-warrior-2-invasion.jpg",
+        "orientation": "vertical",
+        "category": "shooting",
+        "name": "Sky Warrior 2 Invasion",
+        "url": "https://m.shtoss.com/game/sky-warrior-2-invasion/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/zig-up.jpg",
+        "orientation": "vertical",
+        "category": "Arcade",
+        "name": "Zig Up",
+        "url": "https://m.shtoss.com/game/zig-up/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/dino-bubbles.jpg",
+        "orientation": "vertical",
+        "category": "Arcade",
+        "name": "Dino Bubbles",
+        "url": "https://m.shtoss.com/game/dino-bubbles/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/snake-and-blocks.jpg",
+        "orientation": "vertical",
+        "category": "Arcade",
+        "name": "Snake And Blocks",
+        "url": "https://m.shtoss.com/game/snake-and-blocks/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/puzzle-blocks-ancient.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Puzzle Blocks Ancient",
+        "url": "https://m.shtoss.com/game/puzzle-blocks-ancient/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/lights.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Lights",
+        "url": "https://m.shtoss.com/game/lights/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/zombie-buster.jpg",
+        "orientation": "horizontal",
+        "category": "shooting",
+        "name": "Zombie Buster",
+        "url": "https://m.shtoss.com/game/zombie-buster/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/rolly-vortex.jpg",
+        "orientation": "vertical",
+        "category": "Arcade",
+        "name": "Rolly Vortex",
+        "url": "https://m.shtoss.com/game/rolly-vortex/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/two-dots.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Two Dots",
+        "url": "https://m.shtoss.com/game/two-dots/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/maze.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Maze",
+        "url": "https://m.shtoss.com/game/maze/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/crevice-animal.jpg",
+        "orientation": "horizontal",
+        "category": "Arcade",
+        "name": "Crevice Animal",
+        "url": "https://m.shtoss.com/game/crevice-animal/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/duck-hunter.jpg",
+        "orientation": "horizontal",
+        "category": "shooting",
+        "name": "Duck Hunter",
+        "url": "https://m.shtoss.com/game/duck-hunter/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/sniper-mission.jpg",
+        "orientation": "horizontal",
+        "category": "Shooting",
+        "name": "Sniper Mission",
+        "url": "https://m.shtoss.com/game/sniper-mission/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/surf-riders.jpg",
+        "orientation": "horizontal",
+        "category": "Action",
+        "name": "Rolly Vortex",
+        "url": "https://m.shtoss.com/game/surf-riders/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/duet-online.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Duet",
+        "url": "https://m.shtoss.com/game/duet-online/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/death-soul.jpg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "Death Soul",
+        "url": "https://m.shtoss.com/game/death-soul/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/monster-rush.jpg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "Monster Rush",
+        "url": "https://m.shtoss.com/game/monster-rush/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/glow-hockey-online.jpg",
+        "orientation": "vertical",
+        "category": "board",
+        "name": "Glow Hockey",
+        "url": "https://m.shtoss.com/game/glow-hockey-online/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/boxkid.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Boxkid",
+        "url": "https://m.shtoss.com/game/boxkid/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/pursuit-race.jpg",
+        "orientation": "horizontal",
+        "category": "racing",
+        "name": "Pursuit Race",
+        "url": "https://m.shtoss.com/game/pursuit-race/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/maserati-granturismo.jpg",
+        "orientation": "horizontal",
+        "category": "racing",
+        "name": "Maserati GranTurismo",
+        "url": "https://m.shtoss.com/game/maserati-granturismo/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/fox-fury.jpg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "Fox Fury",
+        "url": "https://m.shtoss.com/game/fox-fury/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/kung-fu-master.jpg",
+        "orientation": "vertical",
+        "category": "action",
+        "name": "Kung Fu Master",
+        "url": "https://m.shtoss.com/game/kung-fu-master/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/floor-jumper-escape.jpg",
+        "orientation": "vertical",
+        "category": "action",
+        "name": "Floor Jumper Escape",
+        "url": "https://m.shtoss.com/game/floor-jumper-escape/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/8-ball-pool-billiards.jpg",
+        "orientation": "horizontal",
+        "category": "board",
+        "name": "8 Ball Pool Billiards",
+        "url": "https://m.shtoss.com/game/8-ball-pool-billiards/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/darts-pro.jpg",
+        "orientation": "vertical",
+        "category": "board",
+        "name": "Darts Pro",
+        "url": "https://m.shtoss.com/game/darts-pro/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/master-chess.jpg",
+        "orientation": "vertical",
+        "category": "board",
+        "name": "Master Chess",
+        "url": "https://m.shtoss.com/game/master-chess/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/cheesy-wars.jpg",
+        "orientation": "vertical",
+        "category": "shooting",
+        "name": "Cheesy Wars",
+        "url": "https://m.shtoss.com/game/cheesy-wars/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/hit-the-glow.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Hit The Glow",
+        "url": "https://m.shtoss.com/game/hit-the-glow/"
+      }
+    ],
+    "best": [
+      {
+        "img_file": "https://img.gamedistribution.com/268ffdb2c4a748f18d0c39c9d183b9ed-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "HERO KNIGHT ACTION RPG",
+        "url": "https://html5.gamedistribution.com/268ffdb2c4a748f18d0c39c9d183b9ed/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/zombie-buster.jpg",
+        "orientation": "horizontal",
+        "category": "shooting",
+        "name": "Zombie Buster",
+        "url": "https://m.shtoss.com/game/zombie-buster/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/1a5f3081c3954711b83c0a3404aa71d6-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "POPCORN BOX",
+        "url": "https://html5.gamedistribution.com/1a5f3081c3954711b83c0a3404aa71d6/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/two-dots.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Two Dots",
+        "url": "https://m.shtoss.com/game/two-dots/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/duck-hunter.jpg",
+        "orientation": "horizontal",
+        "category": "shooting",
+        "name": "Duck Hunter",
+        "url": "https://m.shtoss.com/game/duck-hunter/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/elevator-ball.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Elevator Ball",
+        "url": "https://m.shtoss.com/game/elevator-ball/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/monster-rush.jpg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "Monster Rush",
+        "url": "https://m.shtoss.com/game/monster-rush/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/kitsune-zenko-adventure.jpg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "Kitsune Zenko Adventure",
+        "url": "https://m.shtoss.com/game/kitsune-zenko-adventure/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/b00ba96e1d1c4a739454fd9c1e8f7393-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "DRAW CLIMBER",
+        "url": "https://html5.gamedistribution.com/b00ba96e1d1c4a739454fd9c1e8f7393/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/54ca781032914740a819c2242b770878-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "SNAKE CHALLENGE",
+        "url": "https://html5.gamedistribution.com/54ca781032914740a819c2242b770878/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/722176c4785042368e5b4f734cc14b9e-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "action",
+        "name": "STICKMAN SWING",
+        "url": "https://html5.gamedistribution.com/722176c4785042368e5b4f734cc14b9e/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/efec93704a6d4f9e83fd78536231192c-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "2048 DROP",
+        "url": "https://html5.gamedistribution.com/efec93704a6d4f9e83fd78536231192c/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/7c55e325cfa441e08416e610253e02c3-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "action",
+        "name": "HANGER 2 HTML5 CENSORED",
+        "url": "https://html5.gamedistribution.com/5b911de55ff848dca5c413624e5db653/"
+      },
+      {
+        "img_file": "https://games.assets.gamepix.com/40071/thumbnail/small.png",
+        "orientation": "horizontal",
+        "category": "puzzle",
+        "name": "Cut The Rope",
+        "url": "https://play.gamepix.com/cut-the-rope/embed?sid=2WVMD"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/01916e94606344f5b0620fd8e76d2127-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "PIANO TILES 3",
+        "url": "https://html5.gamedistribution.com/01916e94606344f5b0620fd8e76d2127/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/4d2a9eb618474d3db40c6935f579c4a7-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "shooting",
+        "name": "MAFIA WARS",
+        "url": "https://html5.gamedistribution.com/4d2a9eb618474d3db40c6935f579c4a7/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/80489c0e24a24d00b84852d27543b09f-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "CAR EATS CAR 2",
+        "url": "https://html5.gamedistribution.com/80489c0e24a24d00b84852d27543b09f/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/7e0332c53c1d4044a60bab150219dda4-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "strategy",
+        "name": "KILLER ASSASSIN",
+        "url": "https://html5.gamedistribution.com/7e0332c53c1d4044a60bab150219dda4/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/super-box.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Super Box",
+        "url": "https://m.shtoss.com/game/super-box/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/5c0ad273bb7f4945a53f69d7d9adfc70-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "Shooting",
+        "name": "STUPID ZOMBIES 2",
+        "url": "https://html5.gamedistribution.com/5c0ad273bb7f4945a53f69d7d9adfc70/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/project-archer.jpg",
+        "orientation": "horizontal",
+        "category": "Shooting",
+        "name": "Project Archer",
+        "url": "https://m.shtoss.com/game/project-archer/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/happy-glass.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Happy Glass",
+        "url": "https://m.shtoss.com/game/happy-glass/"
+      }
+    ],
+    "new": [
+      {
+        "img_file": "https://img.gamedistribution.com/5c0ad273bb7f4945a53f69d7d9adfc70-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "Shooting",
+        "name": "STUPID ZOMBIES 2",
+        "url": "https://html5.gamedistribution.com/5c0ad273bb7f4945a53f69d7d9adfc70/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/8b1f150b3e9141bab6dff4d63ecbccef-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "JUNGLE DASH MANIA",
+        "url": "https://html5.gamedistribution.com/8b1f150b3e9141bab6dff4d63ecbccef/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/b00ba96e1d1c4a739454fd9c1e8f7393-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "DRAW CLIMBER",
+        "url": "https://html5.gamedistribution.com/b00ba96e1d1c4a739454fd9c1e8f7393/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/room-escape-adventure.jpg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "Room Escape Adventure",
+        "url": "https://m.shtoss.com/game/room-escape-adventure/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/kitsune-zenko-adventure.jpg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "Kitsune Zenko Adventure",
+        "url": "https://m.shtoss.com/game/kitsune-zenko-adventure/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/elevator-ball.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Elevator Ball",
+        "url": "https://m.shtoss.com/game/elevator-ball/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/268ffdb2c4a748f18d0c39c9d183b9ed-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "action",
+        "name": "HERO KNIGHT ACTION RPG",
+        "url": "https://html5.gamedistribution.com/268ffdb2c4a748f18d0c39c9d183b9ed/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/duck-hunter.jpg",
+        "orientation": "horizontal",
+        "category": "shooting",
+        "name": "Duck Hunter",
+        "url": "https://m.shtoss.com/game/duck-hunter/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/54ca781032914740a819c2242b770878-512x512.jpeg",
+        "orientation": "horizontal",
+        "category": "arcade",
+        "name": "SNAKE CHALLENGE",
+        "url": "https://html5.gamedistribution.com/54ca781032914740a819c2242b770878/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/722176c4785042368e5b4f734cc14b9e-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "action",
+        "name": "STICKMAN SWING",
+        "url": "https://html5.gamedistribution.com/722176c4785042368e5b4f734cc14b9e/"
+      },
+      {
+        "img_file": "https://img.gamedistribution.com/7c55e325cfa441e08416e610253e02c3-512x512.jpeg",
+        "orientation": "vertical",
+        "category": "action",
+        "name": "HANGER 2 HTML5 CENSORED",
+        "url": "https://html5.gamedistribution.com/5b911de55ff848dca5c413624e5db653/"
+      },
+      {
+        "img_file": "https://s.shtoss.com/images/project-archer.jpg",
+        "orientation": "horizontal",
+        "category": "Shooting",
+        "name": "Project Archer",
+        "url": "https://m.shtoss.com/game/project-archer/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/happy-glass.jpg",
+        "orientation": "vertical",
+        "category": "puzzle",
+        "name": "Happy Glass",
+        "url": "https://m.shtoss.com/game/happy-glass/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/cube-jump.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Cube Jump",
+        "url": "https://m.shtoss.com/game/cube-jump/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/rescuers.jpg",
+        "orientation": "vertical",
+        "category": "arcade",
+        "name": "Rescuers",
+        "url": "https://m.shtoss.com/game/rescuers/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/ninja-action.jpg",
+        "orientation": "vertical",
+        "category": "action",
+        "name": "Ninja Action",
+        "url": "https://m.shtoss.com/game/ninja-action/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/flappy-shooter.jpg",
+        "orientation": "vertical",
+        "category": "shooting",
+        "name": "Flappy Shooter",
+        "url": "https://m.shtoss.com/game/flappy-shooter/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/furious-road.jpg",
+        "orientation": "vertical",
+        "category": "shooting",
+        "name": "Furious Road",
+        "url": "https://m.shtoss.com/game/furious-road/"
+      },
+      {
+        "img_file": "https://s.h5games.online/images/monster-track.jpg",
+        "orientation": "horizontal",
+        "category": "car",
+        "name": "Monster Track",
+        "url": "https://m.shtoss.com/game/monster-track/"
+      }
+    ]
+  }
+]
