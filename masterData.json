@@ -1,20 +1,7 @@
 [
   {
     "main": [
-        {
-        "img_file": "https://img.gamedistribution.com/aa83b59148f3459687d6c6382cd30e9d-512x512.jpeg",
-        "orientation": "vertical",
-        "category": "puzzle",
-        "name": "WATER FLOW",
-        "gameUrl": "https://html5.gamedistribution.com/aa83b59148f3459687d6c6382cd30e9d/"
-      },
-       {
-        "img_file": "https://img.gamedistribution.com/aa83b59148f3459687d6c6382cd30e9d-512x512.jpeg",
-        "orientation": "vertical",
-        "category": "puzzle",
-        "name": "WATER FLOW",
-        "gameUrl": "https://html5.gamedistribution.com/aa83b59148f3459687d6c6382cd30e9d/"
-      },
+      
       {
         "img_file": "https://img.gamedistribution.com/aa83b59148f3459687d6c6382cd30e9d-512x512.jpeg",
         "orientation": "vertical",
