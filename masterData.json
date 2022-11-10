@@ -594,7 +594,7 @@
       },
       {
         "img_file": "https://games.assets.gamepix.com/40071/thumbnail/small.png",
-        "orientation": "horizontal",
+        "orientation": "vertical",
         "category": "arcade",
         "name": "Cut the Rope",
         "gameUrl": "https://play.gamepix.com/cut-the-rope/embed?sid=2WVMD"
@@ -697,13 +697,7 @@
         "name": "CAR EATS CAR 2",
         "gameUrl": "https://html5.gamedistribution.com/80489c0e24a24d00b84852d27543b09f/"
       },
-      {
-        "img_file": "https://img.gamemonetize.com/l1c9pkpxysqy1cao2axakpf8mdwkv8qg/512x512.jpg",
-        "orientation": "vertical",
-        "category": "strategy",
-        "name": "HUNTER ASSASSIN",
-        "gameUrl": "https://html5.gamemonetize.com/l1c9pkpxysqy1cao2axakpf8mdwkv8qg/"
-      },
+    
       {
         "img_file": "https://imgs2.dab3games.com/rocket-punch-game27.png",
         "orientation": "vertical",
@@ -856,7 +850,7 @@
       },
       {
         "img_file": "https://games.assets.gamepix.com/40071/thumbnail/small.png",
-        "orientation": "horizontal",
+        "orientation": "vertical",
         "category": "puzzle",
         "name": "Cut The Rope",
         "gameUrl": "https://play.gamepix.com/cut-the-rope/embed?sid=2WVMD"
@@ -881,13 +875,6 @@
         "category": "action",
         "name": "CAR EATS CAR 2",
         "gameUrl": "https://html5.gamedistribution.com/80489c0e24a24d00b84852d27543b09f/"
-      },
-      {
-        "img_file": "https://img.gamemonetize.com/l1c9pkpxysqy1cao2axakpf8mdwkv8qg/512x512.jpg",
-        "orientation": "vertical",
-        "category": "strategy",
-        "name": "HUNTER ASSASSIN",
-        "gameUrl": "https://html5.gamemonetize.com/l1c9pkpxysqy1cao2axakpf8mdwkv8qg/"
       },
       {
         "img_file": "https://img.gamedistribution.com/5c0ad273bb7f4945a53f69d7d9adfc70-512x512.jpeg",
